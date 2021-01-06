@@ -1,6 +1,5 @@
 # MyErp
-Documentação completa em :
-![alt text](https://github.com/gljooj/MyErp/blob/master/Documentacao_final.pdf?raw=true)
+Documentação em pdf: https://github.com/gljooj/MyErp/blob/master/Documentacao_final.pdf
 ![alt text](https://github.com/gljooj/MyErp/blob/master/final_images/Documentacao_final-01.jpg?raw=true)
 ![alt text](https://github.com/gljooj/MyErp/blob/master/final_images/Documentacao_final-02.jpg?raw=true)
 ![alt text](https://github.com/gljooj/MyErp/blob/master/final_images/Documentacao_final-03.jpg?raw=true)
